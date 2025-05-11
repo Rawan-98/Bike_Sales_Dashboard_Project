@@ -22,3 +22,6 @@ This project analyzes bike sales data to uncover trends and insights about custo
 ## Additional Notes
 - The data was cleaned and processed in Excel to remove duplicates and inconsistencies.
 - Pivot Tables were used to summarize purchasing trends by region and demographic.
+
+ ## Beschreibung (German)
+Dieses Projekt analysiert Fahrradverkaufsdaten, um Trends und Einblicke in das Kaufverhalten von Kunden zu gewinnen. Mit Excel habe ich ein Dashboard erstellt, um wichtige demografische Daten wie Einkommen, Alter und Region zu visualisieren. 
